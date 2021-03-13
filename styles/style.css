@@ -46,5 +46,10 @@ html, body {
     border-radius: 50px;
     text-justify: inter-cluster;
   }
+
+  :root {
+    touch-action: pan-x pan-y;
+    height: 100% 
+  }
   
   
