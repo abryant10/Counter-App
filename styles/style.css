@@ -33,6 +33,7 @@ html, body {
     background-color: rgb(255, 255, 255);
     border: solid 2px rgb(138, 111, 77);
     border-radius: 50px;
+    text-justify: inter-cluster;
   }
   .buttonDown {
     color: rgb(192, 0, 0);
@@ -43,6 +44,7 @@ html, body {
     background-color: rgb(255, 255, 255);
     border: solid 2px rgb(138, 111, 77);
     border-radius: 50px;
+    text-justify: inter-cluster;
   }
   
   
